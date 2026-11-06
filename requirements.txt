@@ -1,0 +1,8 @@
+# Core Game Dependencies
+pygame>=2.5.0
+numpy>=1.24.0
+gymnasium>=0.29.0
+
+# AI / Reinforcement Learning Dependencies (Optional)
+# torch>=2.0.0
+# stable-baselines3>=2.0.0

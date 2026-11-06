@@ -1,0 +1,1322 @@
+[
+  {
+    "episode": 1,
+    "progress": 15.75,
+    "best_progress": 15.75,
+    "q_states": 112,
+    "sensor_states": 20,
+    "total_steps": 112
+  },
+  {
+    "episode": 2,
+    "progress": 15.75,
+    "best_progress": 15.75,
+    "q_states": 112,
+    "sensor_states": 20,
+    "total_steps": 116
+  },
+  {
+    "episode": 3,
+    "progress": 15.75,
+    "best_progress": 15.75,
+    "q_states": 113,
+    "sensor_states": 20,
+    "total_steps": 120
+  },
+  {
+    "episode": 4,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 173,
+    "sensor_states": 28,
+    "total_steps": 182
+  },
+  {
+    "episode": 5,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 173,
+    "sensor_states": 28,
+    "total_steps": 198
+  },
+  {
+    "episode": 6,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 174,
+    "sensor_states": 28,
+    "total_steps": 214
+  },
+  {
+    "episode": 7,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 176,
+    "sensor_states": 28,
+    "total_steps": 230
+  },
+  {
+    "episode": 8,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 179,
+    "sensor_states": 28,
+    "total_steps": 246
+  },
+  {
+    "episode": 9,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 183,
+    "sensor_states": 28,
+    "total_steps": 262
+  },
+  {
+    "episode": 10,
+    "progress": 23.91,
+    "best_progress": 23.91,
+    "q_states": 188,
+    "sensor_states": 28,
+    "total_steps": 278
+  },
+  {
+    "episode": 11,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 216,
+    "sensor_states": 28,
+    "total_steps": 316
+  },
+  {
+    "episode": 12,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 216,
+    "sensor_states": 28,
+    "total_steps": 319
+  },
+  {
+    "episode": 13,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 217,
+    "sensor_states": 28,
+    "total_steps": 322
+  },
+  {
+    "episode": 14,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 219,
+    "sensor_states": 28,
+    "total_steps": 325
+  },
+  {
+    "episode": 15,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 245,
+    "sensor_states": 28,
+    "total_steps": 363
+  },
+  {
+    "episode": 16,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 248,
+    "sensor_states": 28,
+    "total_steps": 367
+  },
+  {
+    "episode": 17,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 274,
+    "sensor_states": 28,
+    "total_steps": 405
+  },
+  {
+    "episode": 18,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 278,
+    "sensor_states": 28,
+    "total_steps": 410
+  },
+  {
+    "episode": 19,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 304,
+    "sensor_states": 28,
+    "total_steps": 448
+  },
+  {
+    "episode": 20,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 309,
+    "sensor_states": 28,
+    "total_steps": 454
+  },
+  {
+    "episode": 21,
+    "progress": 27.0,
+    "best_progress": 27.0,
+    "q_states": 335,
+    "sensor_states": 28,
+    "total_steps": 492
+  },
+  {
+    "episode": 22,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 351,
+    "sensor_states": 28,
+    "total_steps": 509
+  },
+  {
+    "episode": 23,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 377,
+    "sensor_states": 28,
+    "total_steps": 557
+  },
+  {
+    "episode": 24,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 394,
+    "sensor_states": 28,
+    "total_steps": 575
+  },
+  {
+    "episode": 25,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 420,
+    "sensor_states": 28,
+    "total_steps": 623
+  },
+  {
+    "episode": 26,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 438,
+    "sensor_states": 28,
+    "total_steps": 642
+  },
+  {
+    "episode": 27,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 464,
+    "sensor_states": 28,
+    "total_steps": 690
+  },
+  {
+    "episode": 28,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 483,
+    "sensor_states": 28,
+    "total_steps": 710
+  },
+  {
+    "episode": 29,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 509,
+    "sensor_states": 28,
+    "total_steps": 758
+  },
+  {
+    "episode": 30,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 529,
+    "sensor_states": 28,
+    "total_steps": 779
+  },
+  {
+    "episode": 31,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 555,
+    "sensor_states": 28,
+    "total_steps": 827
+  },
+  {
+    "episode": 32,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 576,
+    "sensor_states": 28,
+    "total_steps": 849
+  },
+  {
+    "episode": 33,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 615,
+    "sensor_states": 29,
+    "total_steps": 943
+  },
+  {
+    "episode": 34,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 652,
+    "sensor_states": 30,
+    "total_steps": 1037
+  },
+  {
+    "episode": 35,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 689,
+    "sensor_states": 30,
+    "total_steps": 1131
+  },
+  {
+    "episode": 36,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 726,
+    "sensor_states": 31,
+    "total_steps": 1225
+  },
+  {
+    "episode": 37,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 764,
+    "sensor_states": 32,
+    "total_steps": 1319
+  },
+  {
+    "episode": 38,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 802,
+    "sensor_states": 32,
+    "total_steps": 1403
+  },
+  {
+    "episode": 39,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 840,
+    "sensor_states": 33,
+    "total_steps": 1487
+  },
+  {
+    "episode": 40,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 844,
+    "sensor_states": 33,
+    "total_steps": 1507
+  },
+  {
+    "episode": 41,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 844,
+    "sensor_states": 33,
+    "total_steps": 1601
+  },
+  {
+    "episode": 42,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 844,
+    "sensor_states": 33,
+    "total_steps": 1695
+  },
+  {
+    "episode": 43,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 890,
+    "sensor_states": 34,
+    "total_steps": 1789
+  },
+  {
+    "episode": 44,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 927,
+    "sensor_states": 34,
+    "total_steps": 1883
+  },
+  {
+    "episode": 45,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 964,
+    "sensor_states": 34,
+    "total_steps": 1977
+  },
+  {
+    "episode": 46,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1001,
+    "sensor_states": 34,
+    "total_steps": 2071
+  },
+  {
+    "episode": 47,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1039,
+    "sensor_states": 34,
+    "total_steps": 2165
+  },
+  {
+    "episode": 48,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1077,
+    "sensor_states": 34,
+    "total_steps": 2259
+  },
+  {
+    "episode": 49,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1115,
+    "sensor_states": 34,
+    "total_steps": 2343
+  },
+  {
+    "episode": 50,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1153,
+    "sensor_states": 34,
+    "total_steps": 2427
+  },
+  {
+    "episode": 51,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 1157,
+    "sensor_states": 34,
+    "total_steps": 2447
+  },
+  {
+    "episode": 52,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1157,
+    "sensor_states": 34,
+    "total_steps": 2541
+  },
+  {
+    "episode": 53,
+    "progress": 21.66,
+    "best_progress": 28.41,
+    "q_states": 1203,
+    "sensor_states": 34,
+    "total_steps": 2607
+  },
+  {
+    "episode": 54,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1240,
+    "sensor_states": 34,
+    "total_steps": 2721
+  },
+  {
+    "episode": 55,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1277,
+    "sensor_states": 34,
+    "total_steps": 2835
+  },
+  {
+    "episode": 56,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1315,
+    "sensor_states": 34,
+    "total_steps": 2949
+  },
+  {
+    "episode": 57,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1353,
+    "sensor_states": 34,
+    "total_steps": 3063
+  },
+  {
+    "episode": 58,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1391,
+    "sensor_states": 34,
+    "total_steps": 3177
+  },
+  {
+    "episode": 59,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1429,
+    "sensor_states": 34,
+    "total_steps": 3281
+  },
+  {
+    "episode": 60,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1430,
+    "sensor_states": 34,
+    "total_steps": 3385
+  },
+  {
+    "episode": 61,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 1434,
+    "sensor_states": 34,
+    "total_steps": 3425
+  },
+  {
+    "episode": 62,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1481,
+    "sensor_states": 34,
+    "total_steps": 3539
+  },
+  {
+    "episode": 63,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1518,
+    "sensor_states": 34,
+    "total_steps": 3653
+  },
+  {
+    "episode": 64,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1556,
+    "sensor_states": 34,
+    "total_steps": 3767
+  },
+  {
+    "episode": 65,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1594,
+    "sensor_states": 34,
+    "total_steps": 3881
+  },
+  {
+    "episode": 66,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1632,
+    "sensor_states": 34,
+    "total_steps": 3995
+  },
+  {
+    "episode": 67,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1670,
+    "sensor_states": 34,
+    "total_steps": 4109
+  },
+  {
+    "episode": 68,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1671,
+    "sensor_states": 34,
+    "total_steps": 4213
+  },
+  {
+    "episode": 69,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1672,
+    "sensor_states": 34,
+    "total_steps": 4317
+  },
+  {
+    "episode": 70,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 1676,
+    "sensor_states": 34,
+    "total_steps": 4357
+  },
+  {
+    "episode": 71,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1724,
+    "sensor_states": 34,
+    "total_steps": 4471
+  },
+  {
+    "episode": 72,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1762,
+    "sensor_states": 34,
+    "total_steps": 4585
+  },
+  {
+    "episode": 73,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1800,
+    "sensor_states": 34,
+    "total_steps": 4699
+  },
+  {
+    "episode": 74,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1838,
+    "sensor_states": 34,
+    "total_steps": 4813
+  },
+  {
+    "episode": 75,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1876,
+    "sensor_states": 34,
+    "total_steps": 4927
+  },
+  {
+    "episode": 76,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1877,
+    "sensor_states": 34,
+    "total_steps": 5041
+  },
+  {
+    "episode": 77,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1878,
+    "sensor_states": 34,
+    "total_steps": 5145
+  },
+  {
+    "episode": 78,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 1879,
+    "sensor_states": 34,
+    "total_steps": 5249
+  },
+  {
+    "episode": 79,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 1883,
+    "sensor_states": 34,
+    "total_steps": 5289
+  },
+  {
+    "episode": 80,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1932,
+    "sensor_states": 34,
+    "total_steps": 5403
+  },
+  {
+    "episode": 81,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 1970,
+    "sensor_states": 34,
+    "total_steps": 5517
+  },
+  {
+    "episode": 82,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2008,
+    "sensor_states": 34,
+    "total_steps": 5631
+  },
+  {
+    "episode": 83,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2046,
+    "sensor_states": 34,
+    "total_steps": 5745
+  },
+  {
+    "episode": 84,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2047,
+    "sensor_states": 34,
+    "total_steps": 5859
+  },
+  {
+    "episode": 85,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2048,
+    "sensor_states": 34,
+    "total_steps": 5973
+  },
+  {
+    "episode": 86,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 2049,
+    "sensor_states": 34,
+    "total_steps": 6077
+  },
+  {
+    "episode": 87,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 2087,
+    "sensor_states": 34,
+    "total_steps": 6181
+  },
+  {
+    "episode": 88,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 2091,
+    "sensor_states": 34,
+    "total_steps": 6221
+  },
+  {
+    "episode": 89,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2141,
+    "sensor_states": 34,
+    "total_steps": 6335
+  },
+  {
+    "episode": 90,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2179,
+    "sensor_states": 34,
+    "total_steps": 6449
+  },
+  {
+    "episode": 91,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2217,
+    "sensor_states": 34,
+    "total_steps": 6563
+  },
+  {
+    "episode": 92,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2218,
+    "sensor_states": 34,
+    "total_steps": 6677
+  },
+  {
+    "episode": 93,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2219,
+    "sensor_states": 34,
+    "total_steps": 6791
+  },
+  {
+    "episode": 94,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2220,
+    "sensor_states": 34,
+    "total_steps": 6905
+  },
+  {
+    "episode": 95,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 2258,
+    "sensor_states": 34,
+    "total_steps": 7009
+  },
+  {
+    "episode": 96,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 2295,
+    "sensor_states": 34,
+    "total_steps": 7113
+  },
+  {
+    "episode": 97,
+    "progress": 18.0,
+    "best_progress": 28.41,
+    "q_states": 2299,
+    "sensor_states": 34,
+    "total_steps": 7153
+  },
+  {
+    "episode": 98,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2350,
+    "sensor_states": 34,
+    "total_steps": 7267
+  },
+  {
+    "episode": 99,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2388,
+    "sensor_states": 34,
+    "total_steps": 7381
+  },
+  {
+    "episode": 100,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2389,
+    "sensor_states": 34,
+    "total_steps": 7495
+  },
+  {
+    "episode": 101,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2390,
+    "sensor_states": 34,
+    "total_steps": 7609
+  },
+  {
+    "episode": 102,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2391,
+    "sensor_states": 34,
+    "total_steps": 7723
+  },
+  {
+    "episode": 103,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2429,
+    "sensor_states": 34,
+    "total_steps": 7837
+  },
+  {
+    "episode": 104,
+    "progress": 28.41,
+    "best_progress": 28.41,
+    "q_states": 2466,
+    "sensor_states": 34,
+    "total_steps": 7951
+  },
+  {
+    "episode": 105,
+    "progress": 27.0,
+    "best_progress": 28.41,
+    "q_states": 2503,
+    "sensor_states": 34,
+    "total_steps": 8055
+  },
+  {
+    "episode": 106,
+    "progress": 21.52,
+    "best_progress": 28.41,
+    "q_states": 2532,
+    "sensor_states": 41,
+    "total_steps": 8120
+  },
+  {
+    "episode": 107,
+    "progress": 29.25,
+    "best_progress": 29.25,
+    "q_states": 2591,
+    "sensor_states": 50,
+    "total_steps": 8197
+  },
+  {
+    "episode": 108,
+    "progress": 29.25,
+    "best_progress": 29.25,
+    "q_states": 2591,
+    "sensor_states": 50,
+    "total_steps": 8201
+  },
+  {
+    "episode": 109,
+    "progress": 29.25,
+    "best_progress": 29.25,
+    "q_states": 2592,
+    "sensor_states": 50,
+    "total_steps": 8205
+  },
+  {
+    "episode": 110,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2647,
+    "sensor_states": 54,
+    "total_steps": 8262
+  },
+  {
+    "episode": 111,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2647,
+    "sensor_states": 54,
+    "total_steps": 8267
+  },
+  {
+    "episode": 112,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2648,
+    "sensor_states": 54,
+    "total_steps": 8272
+  },
+  {
+    "episode": 113,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2650,
+    "sensor_states": 54,
+    "total_steps": 8277
+  },
+  {
+    "episode": 114,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2653,
+    "sensor_states": 54,
+    "total_steps": 8282
+  },
+  {
+    "episode": 115,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2657,
+    "sensor_states": 54,
+    "total_steps": 8287
+  },
+  {
+    "episode": 116,
+    "progress": 36.71,
+    "best_progress": 36.71,
+    "q_states": 2662,
+    "sensor_states": 54,
+    "total_steps": 8312
+  },
+  {
+    "episode": 117,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2684,
+    "sensor_states": 54,
+    "total_steps": 8353
+  },
+  {
+    "episode": 118,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2707,
+    "sensor_states": 54,
+    "total_steps": 8394
+  },
+  {
+    "episode": 119,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2731,
+    "sensor_states": 54,
+    "total_steps": 8435
+  },
+  {
+    "episode": 120,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2756,
+    "sensor_states": 54,
+    "total_steps": 8476
+  },
+  {
+    "episode": 121,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2782,
+    "sensor_states": 54,
+    "total_steps": 8517
+  },
+  {
+    "episode": 122,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2782,
+    "sensor_states": 54,
+    "total_steps": 8518
+  },
+  {
+    "episode": 123,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2808,
+    "sensor_states": 54,
+    "total_steps": 8559
+  },
+  {
+    "episode": 124,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2809,
+    "sensor_states": 54,
+    "total_steps": 8561
+  },
+  {
+    "episode": 125,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2835,
+    "sensor_states": 54,
+    "total_steps": 8602
+  },
+  {
+    "episode": 126,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2837,
+    "sensor_states": 54,
+    "total_steps": 8605
+  },
+  {
+    "episode": 127,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2863,
+    "sensor_states": 54,
+    "total_steps": 8646
+  },
+  {
+    "episode": 128,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2866,
+    "sensor_states": 54,
+    "total_steps": 8650
+  },
+  {
+    "episode": 129,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2892,
+    "sensor_states": 54,
+    "total_steps": 8691
+  },
+  {
+    "episode": 130,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2896,
+    "sensor_states": 54,
+    "total_steps": 8696
+  },
+  {
+    "episode": 131,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2922,
+    "sensor_states": 54,
+    "total_steps": 8737
+  },
+  {
+    "episode": 132,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2927,
+    "sensor_states": 54,
+    "total_steps": 8743
+  },
+  {
+    "episode": 133,
+    "progress": 38.96,
+    "best_progress": 38.96,
+    "q_states": 2953,
+    "sensor_states": 54,
+    "total_steps": 8784
+  },
+  {
+    "episode": 134,
+    "progress": 41.91,
+    "best_progress": 41.91,
+    "q_states": 2980,
+    "sensor_states": 54,
+    "total_steps": 8812
+  },
+  {
+    "episode": 135,
+    "progress": 41.91,
+    "best_progress": 41.91,
+    "q_states": 2980,
+    "sensor_states": 54,
+    "total_steps": 8814
+  },
+  {
+    "episode": 136,
+    "progress": 41.91,
+    "best_progress": 41.91,
+    "q_states": 2981,
+    "sensor_states": 54,
+    "total_steps": 8816
+  },
+  {
+    "episode": 137,
+    "progress": 41.91,
+    "best_progress": 41.91,
+    "q_states": 3007,
+    "sensor_states": 54,
+    "total_steps": 8878
+  },
+  {
+    "episode": 138,
+    "progress": 41.91,
+    "best_progress": 41.91,
+    "q_states": 3033,
+    "sensor_states": 54,
+    "total_steps": 8907
+  },
+  {
+    "episode": 139,
+    "progress": 60.76,
+    "best_progress": 60.76,
+    "q_states": 3169,
+    "sensor_states": 64,
+    "total_steps": 9044
+  },
+  {
+    "episode": 140,
+    "progress": 60.76,
+    "best_progress": 60.76,
+    "q_states": 3169,
+    "sensor_states": 64,
+    "total_steps": 9047
+  },
+  {
+    "episode": 141,
+    "progress": 60.76,
+    "best_progress": 60.76,
+    "q_states": 3170,
+    "sensor_states": 64,
+    "total_steps": 9050
+  },
+  {
+    "episode": 142,
+    "progress": 69.76,
+    "best_progress": 69.76,
+    "q_states": 3236,
+    "sensor_states": 66,
+    "total_steps": 9117
+  },
+  {
+    "episode": 143,
+    "progress": 69.76,
+    "best_progress": 69.76,
+    "q_states": 3236,
+    "sensor_states": 66,
+    "total_steps": 9126
+  },
+  {
+    "episode": 144,
+    "progress": 69.76,
+    "best_progress": 69.76,
+    "q_states": 3237,
+    "sensor_states": 66,
+    "total_steps": 9135
+  },
+  {
+    "episode": 145,
+    "progress": 75.67,
+    "best_progress": 75.67,
+    "q_states": 3281,
+    "sensor_states": 70,
+    "total_steps": 9186
+  },
+  {
+    "episode": 146,
+    "progress": 75.67,
+    "best_progress": 75.67,
+    "q_states": 3281,
+    "sensor_states": 70,
+    "total_steps": 9205
+  },
+  {
+    "episode": 147,
+    "progress": 75.67,
+    "best_progress": 75.67,
+    "q_states": 3282,
+    "sensor_states": 70,
+    "total_steps": 9224
+  },
+  {
+    "episode": 148,
+    "progress": 90.72,
+    "best_progress": 90.72,
+    "q_states": 3391,
+    "sensor_states": 78,
+    "total_steps": 9350
+  },
+  {
+    "episode": 149,
+    "progress": 98.31,
+    "best_progress": 98.31,
+    "q_states": 3467,
+    "sensor_states": 81,
+    "total_steps": 9434
+  },
+  {
+    "episode": 150,
+    "progress": 98.31,
+    "best_progress": 98.31,
+    "q_states": 3467,
+    "sensor_states": 81,
+    "total_steps": 9465
+  },
+  {
+    "episode": 151,
+    "progress": 95.22,
+    "best_progress": 98.31,
+    "q_states": 3468,
+    "sensor_states": 81,
+    "total_steps": 9474
+  },
+  {
+    "episode": 152,
+    "progress": 95.22,
+    "best_progress": 98.31,
+    "q_states": 3470,
+    "sensor_states": 81,
+    "total_steps": 9483
+  },
+  {
+    "episode": 153,
+    "progress": 95.22,
+    "best_progress": 98.31,
+    "q_states": 3473,
+    "sensor_states": 81,
+    "total_steps": 9492
+  },
+  {
+    "episode": 154,
+    "progress": 95.22,
+    "best_progress": 98.31,
+    "q_states": 3477,
+    "sensor_states": 81,
+    "total_steps": 9501
+  },
+  {
+    "episode": 155,
+    "progress": 95.22,
+    "best_progress": 98.31,
+    "q_states": 3482,
+    "sensor_states": 81,
+    "total_steps": 9510
+  },
+  {
+    "episode": 156,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3504,
+    "sensor_states": 81,
+    "total_steps": 9535
+  },
+  {
+    "episode": 157,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3527,
+    "sensor_states": 81,
+    "total_steps": 9560
+  },
+  {
+    "episode": 158,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3551,
+    "sensor_states": 81,
+    "total_steps": 9585
+  },
+  {
+    "episode": 159,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3576,
+    "sensor_states": 81,
+    "total_steps": 9630
+  },
+  {
+    "episode": 160,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3602,
+    "sensor_states": 81,
+    "total_steps": 9675
+  },
+  {
+    "episode": 161,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3602,
+    "sensor_states": 81,
+    "total_steps": 9676
+  },
+  {
+    "episode": 162,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3628,
+    "sensor_states": 81,
+    "total_steps": 9721
+  },
+  {
+    "episode": 163,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3629,
+    "sensor_states": 81,
+    "total_steps": 9723
+  },
+  {
+    "episode": 164,
+    "progress": 97.47,
+    "best_progress": 98.31,
+    "q_states": 3655,
+    "sensor_states": 81,
+    "total_steps": 9768
+  },
+  {
+    "episode": 165,
+    "progress": 100.0,
+    "best_progress": 100.0,
+    "q_states": 3668,
+    "sensor_states": 81,
+    "total_steps": 9782
+  }
+]
